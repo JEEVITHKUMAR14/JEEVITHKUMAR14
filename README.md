@@ -1,4 +1,4 @@
-👋 Hi there, I’m Jeevith Kumar!
+👋 Hi , I’m Jeevith Kumar!
 
 💻 Passionate about technology and continuous learning
 🌱 Currently exploring new tools, frameworks, and best practices
